@@ -1,11 +1,11 @@
-import HtmlEditor from "../CodeEditor/CodeEditor";
+import CodeEditor from "../CodeEditor/CodeEditor";
 
 const Home = () => {
   return (
     <>
       <div>
         <div>
-            <HtmlEditor/>
+            <CodeEditor/>
         </div>
       </div>
     </>
